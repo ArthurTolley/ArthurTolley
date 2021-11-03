@@ -1,7 +1,9 @@
-My name is Arthur Tolley, I am a first year PhD student at the University of Portsmouth within the Gravitaional Wave Research Group of the Institute of Cosmology and Gravitation.
+My name is Arthur Tolley, I am a second year PhD student at the University of Portsmouth within the Gravitaional Wave Research Group of the Institute of Cosmology and Gravitation.
 
-I am currently on a 3 month placement with the Data Science Centre of Excellence at Shell Research UK, working with the predictive maintenance team.
-
+Current project:
+- Searching for scattered light artefacts in gravitational-wave data
+- Writing my first paper for the scattered light search!
+- Major Review 2021
 
 My Qualifications:
 - First Class Honours Degree, MPhys Physics
