@@ -1,7 +1,7 @@
-My name is Arthur Tolley, I am a third year PhD student at the University of Portsmouth within the Gravitaional Wave Research Group of the Institute of Cosmology and Gravitation.
+I am a final year PhD Student aiming to finish my PhD in September 2024.
 
 Current project:
-- Finding a new project!
+- Improving the PyCBC Live Ranking Statistic
 
 My Qualifications:
 - First Class Honours Degree, MPhys Physics
@@ -17,16 +17,14 @@ Experience:
 
 My Academic and Industrial Interests:
 - Data Science
-- Data Analysis
 - Machine Learning & AI
-- Python Programming
+- Software Engineering
 
 My Hobbies and Personal Interests:
 - Personal Finance
 - Programming
 - Politics
 - Reading
-- Walking & Running
 
 How to reach me:
 - Personal Email Address: arthurellistolley@gmail.com
