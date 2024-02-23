@@ -1,18 +1,14 @@
 I am a final year PhD Student aiming to finish my PhD in September 2024.
 
-Current project:
+Current projects:
 - Improving the PyCBC Live Ranking Statistic
+- Testing the PyCBC Live Early Warning search for future pupgrades
 
 Short Author Publications - [ORCID](https://orcid.org/0000-0001-9841-943X):
 - ArchEnemy - [link](https://iopscience.iop.org/article/10.1088/1361-6382/ace22f)
 
 Qualifications:
 - First Class Honours Degree, MPhys Physics
-- [DISCnet](https://www.discnet.sussex.ac.uk/) training courses in:
-    - Introduction to Big Data
-    - High Performace Computing and Scalable Programming
-    - Statistics and Data Analysis
-    - Machine Learning
 
 Experience:
 - 3 month Data Science internship at Shell UK
