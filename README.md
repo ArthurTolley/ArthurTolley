@@ -1,29 +1,23 @@
-I am a final year PhD Student aiming to finish my PhD in September 2024.
+Research Software Engineer working on Kubernetes, Satellite Imagery and AI.
 
 Current projects:
-- Improving the PyCBC Live Ranking Statistic
-- Testing the PyCBC Live Early Warning search for future pupgrades
+- Continuing Professional Development Data Science & AI Course at the University of Portsmouth
+  - Teaching content and supervising projects
+  - Maintaining an on-prem Kubernetes cluster
+- AI for Detecting Broken Travel Routes After Natural Disaster with Earth Observation
 
 Short Author Publications - [ORCID](https://orcid.org/0000-0001-9841-943X):
 - ArchEnemy - [link](https://iopscience.iop.org/article/10.1088/1361-6382/ace22f)
 
 Qualifications:
+- PhD Astrophysics
 - First Class Honours Degree, MPhys Physics
 
 Experience:
-- 3 month Data Science internship at Shell UK
-- 3 month Data Science internship at the Maritime and Coastguard Agency
-
-Academic and Industrial Interests:
-- Data Science
-- Machine Learning & AI
-- Software Engineering
-
-Hobbies and Personal Interests:
-- Personal Finance
-- Programming
-- Politics
-- Reading
+- Research Software Engineer, Institute of Cosmology and Gravitation
+- Space Software Technician, Institute of Cosmology and Gravitation
+- Data Science Intern, Maritime and Coastguard Agency
+- Data Science Intern, Shell
 
 How to reach me:
 - Personal Email Address: arthurellistolley@gmail.com
